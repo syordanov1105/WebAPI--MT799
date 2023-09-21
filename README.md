@@ -11,7 +11,7 @@ The MT799 Web API documentation provides information about the web API that rece
    * multer
 After you clone the repository run:
 ```bash
-npm install ezpress sqlite3 multer
+npm install express sqlite3 multer
 ```
 ## Start the server
 Replace the port number with your own and then run:
